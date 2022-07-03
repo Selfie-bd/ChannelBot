@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 # Channel Automation Bot [@ChannelAutomateBot](https://t.me/ChannelAutomateBot)
 
 > A star ⭐ from you means a lot to us!
